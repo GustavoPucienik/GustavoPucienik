@@ -3,7 +3,7 @@ Sou estudante de engenharia de software e adoro programação, desde que me inte
 
 <div align="center">
   <a href="https://github.com/GustavoPucienik/GustavoPucienik">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GustavoPucienik&show_icons=true&theme=dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/pin?username=GustavoPucienik&repo=GustavoPucienik"/>
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoPucienik&show_icons=true&theme=dark"/>
 </div>
   
