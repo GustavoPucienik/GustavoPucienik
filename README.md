@@ -3,7 +3,7 @@ Sou estudante de engenharia de software e adoro programação, desde que me inte
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=GustavoPucienika&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
